@@ -90,7 +90,7 @@ if [ -f ~/.dotfile/zsh/aliases ]; then
   . ~/.dotfile/zsh/aliases
 fi
 
-if [ -f ~/.dotfile/zsh/private/keys]; then
+if [ -f ~/.dotfile/zsh/private/keys ]; then
   . ~/.dotfile/zsh/private/keys
 fi
 
