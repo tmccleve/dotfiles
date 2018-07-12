@@ -217,7 +217,7 @@ alias dbmu='spring rake db:migrate:up'
 alias brewu='brew update  && brew upgrade --all && brew cleanup && brew prune && brew doctor'
 
 # Standup
-alias standup="cd ~/dev/standup/2018/`date +%B`"
+alias standup="cd ~/dev/standup/`date +%Y/%B`"
 alias vistandup="vi ~/dev/standup/`date +%Y/%B/%d.md`"
 
 alias flushdns="sudo killall -HUP mDNSResponder"
