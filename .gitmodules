@@ -1,0 +1,24 @@
+[submodule "zsh/.zprezto"]
+	path = zsh/.zprezto
+	url = https://github.com/sorin-ionescu/prezto.git
+[submodule "zsh/.oh-my-zsh"]
+	path = zsh/.oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "config/nvim/bundle/neobundle.vim"]
+	path = config/nvim/bundle/neobundle.vim
+	url = https://github.com/Shougo/neobundle.vim.git
+[submodule "nvim/bundle/neobundle.vim"]
+  path = nvim/bundle/neobundle.vim
+  url = https://github.com/Shougo/neobundle.vim.git
+[submodule "nvim/colors/onedark.vim"]
+  path = nvim/colors/onedark.vim
+  url = https://github.com/joshdick/onedark.vim.git
+[submodule "nvim/colors/vim-kalisi"]
+  path = nvim/colors/vim-kalisi
+  url = https://github.com/freeo/vim-kalisi.git
+[submodule "vim/colors/vim-kalisi"]
+  path = vim/colors/vim-kalisi
+  url = https://github.com/freeo/vim-kalisi.git
+[submodule "zsh/.oy-my-zsh"]
+	path = zsh/.oy-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh

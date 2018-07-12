@@ -1,0 +1,17 @@
+bash/bash_history
+bash/private/*
+zsh/private/*
+nvim/bundle/*
+vim/init.vim
+config/nvim/init.vim
+config/nvim/bundle/*
+!nvim/bundle/neobundle.vim
+completion.zsh.inc
+config/NuGet/
+config/configstore
+config/filezilla
+config/gcloud
+config/oxidized
+config/wireshark
+nvim/nvim
+path.zsh.inc
